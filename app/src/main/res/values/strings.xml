@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login">เข้าใช้งาน</string>
+    <string name="register">ลงทะเบียน</string>
+    <string name="name">กรุณาใส่ ชื่อ นามสกุล</string>
+
+
+
+
+
+
+
+</resources>
